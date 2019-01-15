@@ -11,4 +11,4 @@ Neither of them take in the user input to evaluate any logic :) . RNG Toxic Gene
 * Web page that replies back with a random line (Same as the discord bot but this is just a static browser version) 
 * To Use: Open p.html on any browser
 Preview of Webpage:
-<img src= "https://github.com/Tofufu/OW_ToxicPlatChatSimulator/blob/master/preview.png?raw=true">
+<img src= "https://github.com/Tofufu/OW_ToxicPlatChatSimulator/blob/master/preview.PNG?raw=true">
