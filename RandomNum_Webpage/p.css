@@ -1,0 +1,61 @@
+ body {
+     /*
+     https://playoverwatch.com/en-us/media/
+     */
+     background-image: url("https://d1u1mce87gyfbn.cloudfront.net/media/screenshot/dorado-screenshot-003.jpg");
+     background-size: cover;
+
+ }
+.container {
+    margin: 0 auto;
+    width: 450px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: white;
+    text-shadow: 0 0 3px orange;
+}
+
+.chatbox {
+    width: 450px;
+    height: 230px;
+    overflow-y: auto;
+    word-wrap: break-word;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 3px;
+}
+
+.chattingtext {
+  font-size: 10pt;
+  line-height: 150%;
+}
+
+.user1 {
+    color: rgba(0,175,230, 0.85);
+}
+
+.user2 {
+    color: red;
+}
+
+.userinputform {
+    width: 100%;
+    padding: 10px;
+    margin-top: 3px;
+    font-size: 10pt;
+    color: rgba(0,175,230, 0.85);
+    background-color: rgba(0, 0, 0, 0.7);
+    font-size: 10pt;
+    border-radius: 3px;
+}
+
+#userinput {
+    border: none;
+    width: 85%;
+    outline: none;
+    background-color: rgba(0, 0, 0, 0.0);
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 10pt;
+}
